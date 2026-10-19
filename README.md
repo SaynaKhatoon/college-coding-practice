@@ -1,26 +1,36 @@
-# College Coding Practice
+# College Coding Practice 💻
 
-A collection of my C programming practice, college lab assignments, and problem-solving exercises as a B.Tech Computer Science student.
+Welcome to my programming repository! I'm a B.Tech Computer Science student learning programming fundamentals and problem-solving.
 
-## 📚 What's Inside
+This repository documents my college practice programs, lab exercises, and coding journey.
 
-- C programming fundamentals
-- Conditional statements and loops
-- Arrays and strings
-- Functions and recursion
-- Searching and sorting algorithms
-- Data structures and problem-solving
+## 📂 Repository Structure
 
-## 🎯 Goal
+```text
+college-coding-practice/
+├── README.md
+└── 01-basics/
+    └── hello_world.c
+```
 
-To strengthen my programming fundamentals, improve my problem-solving skills, and document my learning journey.
+## 📚 Topics
 
-## 🛠️ Languages
+- [x] Hello World
+- [ ] Input and output
+- [ ] Operators and expressions
+- [ ] Conditional statements
+- [ ] Loops
+- [ ] Arrays and strings
+- [ ] Functions and recursion
+- [ ] Searching and sorting
+- [ ] Data structures
+
+## 🛠️ Language
 
 - C
 
-*More languages and projects will be added as I progress.*
+## 🎯 Goal
 
----
+Build strong programming fundamentals, improve problem-solving skills, and document my learning progress.
 
-**Learning one line of code at a time.** 🌱
+*Learning one line of code at a time.* 🌱
